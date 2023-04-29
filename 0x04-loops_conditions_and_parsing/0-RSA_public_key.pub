@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -----BEGIN OPENSSH PRIVATE KEY-----
 b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAABlwAAAAdzc2gtcn
 NhAAAAAwEAAQAAAYEAk8I8yUWN2kKfJzKH7j3mtimbDMh0S9Ra2UZx2V/+8to9y241f4nW
@@ -36,3 +37,6 @@ Q7a9pqsfkA6eeVKsdCsJ6Q/2KqGTHqwZyKXFfi5nz4wLJQftFngFOUVQYWF9qoKt7ahXRr
 1MU4a49wfXCWUwpiQl3p0rvveXZCftsQ+iLZ+qLQe+l/I0LkhGyAzQP7ywAdI7Wu1Hyuo3
 XUKqmlrVJtP4LfAAAAEXJvb3RAOGJiMTdlMjM2NmEyAQ==
 -----END OPENSSH PRIVATE KEY-----
+=======
+ssh-keygen -t rsa 
+>>>>>>> refs/remotes/origin/master
